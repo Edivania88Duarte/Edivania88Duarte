@@ -1,4 +1,4 @@
-### Olá rede!! 👋📝💖:hibiscus:
+### Olá rede!! 👋📝🌻🦋 :
 
 Eu sou a Edivania Duarte, mas pode me chamar de Edi! 😊
 <br>
