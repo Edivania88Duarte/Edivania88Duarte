@@ -4,7 +4,7 @@ Eu sou a Edivania Duarte, mas pode me chamar de Edi! 😊
 <br>
 Sou uma desenvolvedora front-end, altamente curiosa, movida a desafios, comprometida e determidada. 🎯
 <br>
-Atualmente desenvolvo projetos em HTML e CSS e também estou aprofundando meus conhecimentos em JavaScript e React. :rocket:
+Atualmente desenvolvo projetos em HTML, CSS e JavaScript e estou aprofundando meus conhecimentos em React. :rocket:
 <br>
 <br> 
  * Tenologias em desevolvimento:
