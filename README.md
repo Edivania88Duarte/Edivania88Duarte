@@ -1,8 +1,6 @@
 ### Olá rede!!
 
-<p align="center">
-  
- ![image](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/a6a71644-4f45-4d15-8b12-c62b8089fb3b)  
+![image](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/a6a71644-4f45-4d15-8b12-c62b8089fb3b)  
 
 
 
