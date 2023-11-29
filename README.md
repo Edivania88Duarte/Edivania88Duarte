@@ -1,13 +1,17 @@
 ### Olá rede!!
 
-![image](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/d12bc579-d73f-4cd5-a14a-6f16c9f3203c)
+<p align="center">
+  
+ ![image](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/a6a71644-4f45-4d15-8b12-c62b8089fb3b)  
+
+
 
 
 Eu sou a Edivania Duarte, mas podem me chamar de Edi! 😊
 <br>
 Sou uma desenvolvedora front-end altamente curiosa, movida a desafios, comprometida e determidada. 🎯
 <br>
-Atualmente desenvolvo projetos em HTML, CSS e JavaScript e estou aprofundando meus conhecimentos em React e Node JS. :rocket:
+Atualmente desenvolvo projetos em HTML, CSS, javaScript e node.js, bem como, estou aprofundando meus conhecimentos em outras tecnologias. :rocket:
 <br>
 <br> 
  * Tenologias em desevolvimento:
