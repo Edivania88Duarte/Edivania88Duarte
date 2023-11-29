@@ -1,4 +1,7 @@
-### Olá rede!! 👋📝🌻🦋 
+### Olá rede!!
+
+![image](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/d12bc579-d73f-4cd5-a14a-6f16c9f3203c)
+
 
 Eu sou a Edivania Duarte, mas podem me chamar de Edi! 😊
 <br>
