@@ -8,7 +8,7 @@ Olá rede, Eu sou a Edivania Duarte, mas podem me chamar de Edi! 😊
 <br>
 Sou uma desenvolvedora Full Stack em formação, altamente curiosa, movida a desafios, comprometida, determidada e obstinada por chegar no patamar que almejo. 🎯
 <br>
-Atualmente desenvolvo projetos em HTML, CSS, JavaScript e Node.JS, bem como, estou aprofundando meus conhecimentos em React e em outras tecnologias, como banco de dados MySQL e PostgreSQL e linguagem C#. Adoro aprender e ensinar, bem como, amo criar conexões, então seja muito bem-vindo(a) ao meu perfil e sinta-se à vontade, pois temos muito a aprender e evoluir juntos!!!! :rocket:
+Atualmente desenvolvo projetos em HTML, CSS, JavaScript e Node.JS, bem como, estou aprofundando meus conhecimentos em React e em outras tecnologias, como banco de dados MySQL e PostgreSQL, além de linguagem C#. Adoro aprender e ensinar, bem como, amo criar conexões, então seja muito bem-vindo(a) ao meu perfil e sinta-se à vontade, pois temos muito a aprender e evoluir juntos!!!! :rocket:
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b80671?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivania-duarte/)
