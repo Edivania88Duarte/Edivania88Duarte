@@ -1,14 +1,14 @@
-### Olá rede!!
+
 
 ![image](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/a6a71644-4f45-4d15-8b12-c62b8089fb3b)  
 
 
 # Edivania Duarte
-Eu sou a Edivania Duarte, mas podem me chamar de Edi! 😊
+Olá rede, Eu sou a Edivania Duarte, mas podem me chamar de Edi! 😊
 <br>
-Sou uma desenvolvedora front-end altamente curiosa, movida a desafios, comprometida e determidada. 🎯
+Sou uma desenvolvedora Full Stack em formação, altamente curiosa, movida a desafios, comprometida, determidada e obstinada por chegar no patamar que almejo. 🎯
 <br>
-Atualmente desenvolvo projetos em HTML, CSS, javaScript e node.js, bem como, estou aprofundando meus conhecimentos em react e em outras tecnologias. Adoro aprender e ensinar, bem como, amo criar conexões, então, seja muito bem-vindo(a) ao meu perfil e sinta-se à vontade, pois temos muito a aprender e evoluir juntos!!!! :rocket:
+Atualmente desenvolvo projetos em HTML, CSS, JavaScript e Node.JS, bem como, estou aprofundando meus conhecimentos em React e em outras tecnologias, como banco de dados MySQL e PostgreSQL e linguagem C#. Adoro aprender e ensinar, bem como, amo criar conexões, então seja muito bem-vindo(a) ao meu perfil e sinta-se à vontade, pois temos muito a aprender e evoluir juntos!!!! :rocket:
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b80671?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivania-duarte/)
