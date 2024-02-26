@@ -13,18 +13,15 @@ Atualmente desenvolvo projetos em HTML, CSS, javaScript e node.js, bem como, est
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b80671?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivania-duarte/)
 
+[![GitHub](https://img.shields.io/badge/GitHub-b80671?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edivania88duarte)
+
+[![Discord](https://img.shields.io/badge/Discord-b80671?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@edivania88duarte/)
+
 
 [![Instagram](https://img.shields.io/badge/-Instagram-b80671?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edivania_duarte/)
 
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-b80671?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55+85+997968284)
-
-
-[![Discord](https://img.shields.io/badge/Discord-b80671?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@edivania88duarte/)
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-b80671?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edivania88duarte)
-
 
 [![Gmail](https://img.shields.io/badge/Gmail-b80671?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:edivania.duarte.dev@gmail.com)
 
