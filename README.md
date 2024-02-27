@@ -3,25 +3,27 @@
 ![image](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/a6a71644-4f45-4d15-8b12-c62b8089fb3b)  
 
 
-# Edivania Duarte
-Olá rede, Eu sou a Edivania Duarte, mas podem me chamar de Edi! 😊
+# Edivania Duarte 👩‍💻
+Olá rede!
 <br>
-Sou uma desenvolvedora Full Stack em formação, altamente curiosa, movida a desafios, comprometida, determidada e obstinada por chegar no patamar que almejo. 🎯
 <br>
-Atualmente desenvolvo projetos em HTML, CSS, JavaScript e Node.JS, bem como, estou aprofundando meus conhecimentos em React e em outras tecnologias, como banco de dados MySQL e PostgreSQL, além de linguagem C#. Adoro aprender e ensinar, bem como, amo criar conexões, então seja muito bem-vindo(a) ao meu perfil e sinta-se à vontade, pois temos muito a aprender e evoluir juntos!!!! :rocket:
+Eu sou a <b>Edivania Duarte</b>, mas podem me chamar de <b>Edi</b>! 😊
+<br>
+<br>
+Sou uma desenvolvedora <b>Full Stack em formação</b>, altamente curiosa, movida a desafios, comprometida, determidada e obstinada por chegar no patamar que almejo. 🎯 Atualmente desenvolvo projetos em HTML, CSS, JavaScript e Node.JS, bem como, estou aprofundando meus conhecimentos em React e em outras tecnologias, como banco de dados MySQL e PostgreSQL, além de linguagem C#. Adoro aprender e ensinar, bem como, amo criar conexões, então seja muito bem-vindo(a) ao meu perfil e sinta-se à vontade, pois temos muito a aprender e a evoluir juntos!!!! :rocket:
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b80671?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivania-duarte/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ee50a2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivania-duarte/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-b80671?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edivania88duarte)
+[![GitHub](https://img.shields.io/badge/GitHub-ee50a2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edivania88duarte)
 
-[![Discord](https://img.shields.io/badge/Discord-b80671?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@edivania88duarte/)
+[![Discord](https://img.shields.io/badge/Discord-ee50a2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@edivania88duarte/)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-b80671?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edivania_duarte/)
+[![Instagram](https://img.shields.io/badge/-Instagram-ee50a2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edivania_duarte/)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-b80671?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5585997968284)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-ee50a2?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5585997968284)
 
-[![Gmail](https://img.shields.io/badge/Gmail-b80671?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:edivania.duarte.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-ee50a2?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:edivania.duarte.dev@gmail.com)
 
 ## Habilidades (Tecnologias/Bibliotecas/Frameworks/Ferramentas)
 
@@ -36,5 +38,5 @@ Atualmente desenvolvo projetos em HTML, CSS, JavaScript e Node.JS, bem como, est
 
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edivania88Duarte&repo=SEUREPOSITORIO&bg_color=000&border_color=b80671&show_icons=true&icon_color=b80671&title_color=b80671&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edivania88Duarte&repo=https://github.com/Edivania88Duarte/dio-lab-open-source&bg_color=000&border_color=b80671&show_icons=true&icon_color=b80671&title_color=b80671&text_color=FFF)](https://github.com/Edivania88Duarte/https://github.com/Edivania88Duarte/dio-lab-open-source)
 
