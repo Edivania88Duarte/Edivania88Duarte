@@ -11,7 +11,7 @@ Eu sou a <b>Edivania Duarte</b>, mas podem me chamar de <b>Edi</b>! 😊
 <br>
 <br>
 
-🚀 Seja bem-vindo(a) ao meu universo de desenvolvimento! 🪐🌟
+🚀 Sejam bem-vindos(as) ao meu universo de desenvolvimento! 🪐🌟
 
 Sou uma incansável desenvolvedora <b>Full Stack em formação</b>, estudante de Análise e Desenvolvimento de Sistemas e estagiária, impulsionada pela curiosidade e apaixonada por desafios. Meu comprometimento e determinação são os combustíveis que me impulsionam em direção aos meus objetivos, sempre vislumbrando o topo do sucesso.
 
