@@ -17,7 +17,7 @@ Sou desenvolvedora Full Stack em formação, estudante de Análise e Desenvolvim
 Atualmente, desenvolvo projetos utilizando HTML, CSS, JavaScript e Node.js, ao mesmo tempo em que aprofundo meus conhecimentos em React/React Native e exploro tecnologias como MySQL, PostgreSQL e C#. Aqui, compartilho meus avanços e transformo o ambiente no meu universo de desenvolvimento.🪐💻
 <br>
 <br>
-Minha jornada é marcada não apenas pela busca incessante pelo conhecimento, mas também pelo prazer genuíno em compartilhá-lo. Acredito profundamente no poder da conexão e da colaboração. Portanto, seja bem-vindo(a) a se juntar a mim nessa jornada de aprendizado e evolução contínua. Juntos, temos um vasto mundo de possibilidades para explorar e conquistar!
+Minha jornada é marcada não apenas pela busca incessante pelo conhecimento, mas também pelo prazer genuíno em compartilhá-lo. Acredito profundamente no poder da conexão e da colaboração. Portanto, seja bem-vindo(a) a se juntar a mim nessa jornada de aprendizado e evolução contínua. Juntos, temos um vasto mundo de possibilidades para explorar e conquistar!🌟
 <br>
 <br>
 Vamos lá! 💡✨🚀
