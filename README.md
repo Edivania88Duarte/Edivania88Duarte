@@ -1,26 +1,28 @@
 
 
-![image](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/a6a71644-4f45-4d15-8b12-c62b8089fb3b)  
+![OIG1copia](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/358287de-92cd-49c4-8616-35c965ec6c91)
+
 
 
 # Edivania Duarte 👩‍💻
 Olá, rede!
 <br>
 <br>
-Eu sou a <b>Edivania Duarte</b>, mas podem me chamar de <b>Edi</b>! 😊
+Eu sou Edivania Duarte, mas podem me chamar de Edi! 😊
 <br>
 <br>
-
-🚀 Sejam bem-vindos(as) ao meu universo de desenvolvimento! 🪐🌟
-
-Sou uma incansável desenvolvedora <b>Full Stack em formação</b>, estudante de Análise e Desenvolvimento de Sistemas e estagiária, impulsionada pela curiosidade e apaixonada por desafios. Meu comprometimento e determinação são os combustíveis que me impulsionam em direção aos meus objetivos, sempre vislumbrando o topo do sucesso.
-
-Atualmente, estou desenvolvendo projetos que englobam HTML, CSS, JavaScript e Node.js, enquanto aprofundo meu conhecimento em React e exploro tecnologias como MySQL, PostgreSQL e C#.
-
-Minha jornada é marcada não apenas pela busca incessante pelo conhecimento, mas também pelo prazer genuíno em compartilhá-lo. Acredito profundamente no poder da conexão e da colaboração. Portanto, seja bem-vindo(a) para se juntar a mim nessa jornada de aprendizado e evolução contínua. Juntos, temos um vasto mundo de possibilidades para explorar e conquistar!
-
-Vamos criar algo incrível juntos! 💡✨🚀 
-
+Sou desenvolvedora Full Stack em formação, estudante de Análise e Desenvolvimento de Sistemas e estagiária de desenvolvimento web. Impulsionada pela curiosidade e apaixonada por desafios, meu comprometimento e determinação são os combustíveis que me levam em direção aos meus objetivos, sempre visando aprender, evoluir e alcançar patamares cada vez maiores!🚀
+<br>
+<br>
+Atualmente, desenvolvo projetos utilizando HTML, CSS, JavaScript e Node.js, ao mesmo tempo em que aprofundo meus conhecimentos em React/React Native e exploro tecnologias como MySQL, PostgreSQL e C#. Aqui, compartilho meus avanços e transformo o ambiente no meu universo de desenvolvimento.🪐💻
+<br>
+<br>
+Minha jornada é marcada não apenas pela busca incessante pelo conhecimento, mas também pelo prazer genuíno em compartilhá-lo. Acredito profundamente no poder da conexão e da colaboração. Portanto, seja bem-vindo(a) a se juntar a mim nessa jornada de aprendizado e evolução contínua. Juntos, temos um vasto mundo de possibilidades para explorar e conquistar!
+<br>
+<br>
+Vamos lá! 💡✨🚀
+<br>
+<br>
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ee50a2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edivania-duarte/)
 
