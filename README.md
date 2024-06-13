@@ -8,10 +8,11 @@
 Olá, rede!
 <br>
 <br>
-Eu sou Edivania Duarte, mas podem me chamar de Edi! 😊
+Eu sou Edivania Duarte, mas podem me chamar de <b>Edi</b>! 😊
 <br>
 <br>
-Sou desenvolvedora Full Stack em formação, estudante de Análise e Desenvolvimento de Sistemas e estagiária de desenvolvimento web. Impulsionada pela curiosidade e apaixonada por desafios, meu comprometimento e determinação são os combustíveis que me levam em direção aos meus objetivos, sempre visando aprender, evoluir e alcançar patamares cada vez maiores!🚀
+Desenvolvedora Full Stack em formação, estudante de Análise e Desenvolvimento de Sistemas e estagiária de desenvolvimento. 
+<br>Sou curiosa, sedenta por novos aprendizados, apaixonada por tecnologia e por desafios. Meu comprometimento e determinação são os combustíveis que me levam em direção aos meus objetivos, sempre visando aprender, evoluir e alcançar patamares cada vez maiores!🚀
 <br>
 <br>
 Atualmente, desenvolvo projetos utilizando HTML, CSS, JavaScript e Node.js, ao mesmo tempo em que aprofundo meus conhecimentos em React/React Native e exploro tecnologias como MySQL, PostgreSQL e C#. Aqui, compartilho meus avanços e transformo o ambiente no meu universo de desenvolvimento.🪐💻
