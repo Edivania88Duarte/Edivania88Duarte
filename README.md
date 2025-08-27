@@ -15,7 +15,7 @@ Eu sou Edivania Duarte, mas podem me chamar de Edi! 😊
 Desenvolvedora Full Stack em formação, estudante de Análise e Desenvolvimento de Sistemas e estagiária de desenvolvimento.
 Sou curiosa, sedenta por novos aprendizados, apaixonada por tecnologia e por desafios. Meu comprometimento e determinação são os combustíveis que me levam em direção aos meus objetivos, sempre visando aprender, evoluir e alcançar patamares cada vez maiores!🚀
 
-Atualmente, desenvolvo projetos utilizando **JavaScript, TypeScript, Node.js, React e Inteligência Artificial**. Aqui, compartilho meus avanços e transformo o ambiente no meu universo de desenvolvimento.🪐💻
+Atualmente, desenvolvo projetos utilizando **JavaScript, TypeScript, Node.js, Nest.Js, React, Next e Inteligência Artificial**. Aqui, compartilho meus avanços e transformo o ambiente no meu universo de desenvolvimento.🪐💻
 
 Minha jornada é marcada não apenas pela busca incessante pelo conhecimento, mas também pelo prazer genuíno em compartilhá-lo. Acredito profundamente no poder da conexão e da colaboração. Portanto, seja bem-vindo(a) a se juntar a mim nessa jornada de aprendizado e evolução contínua. Juntos, temos um vasto mundo de possibilidades para explorar e conquistar!🌟
 
