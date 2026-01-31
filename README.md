@@ -1,25 +1,60 @@
+# 👋 Olá, rede!
+
+Eu sou **Edivania Duarte**, mas pode me chamar de **Edi** 😊  
+Desenvolvedora **Full Stack**, estudante de **Análise e Desenvolvimento de Sistemas** e **Computação em Nuvem (AWS)**.
+
+Sou curiosa por natureza, movida por desafios e apaixonada por tecnologia.  
+Meu combustível? **Aprender, evoluir e ir sempre um pouco além.** 🚀  
+
+---
+
+## 🚀 Sobre mim
+
+Atualmente, desenvolvo projetos utilizando:
+
+- **JavaScript**
+- **TypeScript**
+- **Node.js**
+- **NestJS**
+- **React**
+- **Next.js**
+- **Inteligência Artificial (n8n)**
+- **AWS**
+
+Aqui no GitHub, compartilho meus estudos, experimentos e projetos reais, transformando cada repositório em parte do meu universo de desenvolvimento. 🪐💻
+
+---
+
+## 🌱 Minha filosofia
+
+Minha jornada é guiada por duas coisas:
+
+- 📚 **Busca constante por conhecimento**
+- 🤝 **Vontade de compartilhar o que aprendo**
+
+Acredito profundamente no poder da conexão e da colaboração.  
+Aprender sozinha é bom. Aprender junto é melhor ainda.
+
+---
+
+## ✨ Vamos construir juntos?
+
+Se você:
+- gosta de tecnologia  
+- curte aprender coisas novas  
+- acredita em evolução contínua  
+
+Então… **seja muito bem-vindo(a)!** 🌟  
+Aqui sempre vai ter algo novo sendo explorado.
+
+---
+
+> 💡 *"Aprender é um processo infinito. E programar é uma forma de materializar esse aprendizado."*
 
 
-![OIG1copia](https://github.com/Edivania88Duarte/Edivania88Duarte/assets/120994730/358287de-92cd-49c4-8616-35c965ec6c91)
 
 
-
-# Edivania Duarte 👩‍💻
-
-
-
-## Olá, rede! 👋
-
-Eu sou Edivania Duarte, mas podem me chamar de Edi! 😊
-
-Desenvolvedora Full Stack em formação, estudante de Análise e Desenvolvimento de Sistemas e estagiária de desenvolvimento.
-Sou curiosa, sedenta por novos aprendizados, apaixonada por tecnologia e por desafios. Meu comprometimento e determinação são os combustíveis que me levam em direção aos meus objetivos, sempre visando aprender, evoluir e alcançar patamares cada vez maiores!🚀
-
-Atualmente, desenvolvo projetos utilizando **JavaScript, TypeScript, Node.Js, Nest.Js, React, Next e Inteligência Artificial**. Aqui, compartilho meus avanços e transformo o ambiente no meu universo de desenvolvimento.🪐💻
-
-Minha jornada é marcada não apenas pela busca incessante pelo conhecimento, mas também pelo prazer genuíno em compartilhá-lo. Acredito profundamente no poder da conexão e da colaboração. Portanto, seja bem-vindo(a) a se juntar a mim nessa jornada de aprendizado e evolução contínua. Juntos, temos um vasto mundo de possibilidades para explorar e conquistar!🌟
-
-Vamos lá! 💡✨🚀
+Vamos nessa! ✨🚀
 <br>
 <br>
 ## Conecte-se comigo
@@ -39,14 +74,18 @@ Vamos lá! 💡✨🚀
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e4b9db?style=for-the-badge&logo=postgresql) ![JavaScript](https://img.shields.io/badge/JavaScript-e4b9db?style=for-the-badge&logo=javascript&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-e4b9db?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/Markdown-e4b9db?style=for-the-badge&logo=markdown) ![PL](https://img.shields.io/badge/PL%2FSQL-e4b9db?style=for-the-badge&logo=oracle&logoColor=fff&labelColor=e4b9db&color=e4b9db) ![NodeJS](https://img.shields.io/badge/node.js-e4b9db?style=for-the-badge&logo=node.js&logoColor=white) 
-![Python](https://img.shields.io/badge/python-e4b9db?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vscode](https://img.shields.io/badge/Vscode-e4b9db?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-e4b9db?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-e4b9db?style=for-the-badge&logo=figma&logoColor=figma) ![React](https://img.shields.io/badge/React-e4b9db?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-e4b9db?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-e4b9db?style=for-the-badge&logo=css3&logoColor=white) ![.NEST](https://img.shields.io/badge/.NEST-e4b9db?style=for-the-badge&logo=.net&logoColor=white) ![NEXT](https://img.shields.io/badge/NEXT-e4b9db?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/GIT-e4b9db?style=for-the-badge&logo=git&logoColor=white) ![C#](https://img.shields.io/badge/C%23-e4b9db?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Python](https://img.shields.io/badge/python-e4b9db?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vscode](https://img.shields.io/badge/Vscode-e4b9db?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-e4b9db?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-e4b9db?style=for-the-badge&logo=figma&logoColor=figma) ![React](https://img.shields.io/badge/React-e4b9db?style=for-the-badge&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/MySQL-e4b9db?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-e4b9db?style=for-the-badge&logo=css3&logoColor=white) ![.NEST](https://img.shields.io/badge/.NEST-e4b9db?style=for-the-badge&logo=.net&logoColor=white) ![NEXT](https://img.shields.io/badge/NEXT-e4b9db?style=for-the-badge&logo=next&logoColor=white) ![Git](https://img.shields.io/badge/GIT-e4b9db?style=for-the-badge&logo=git&logoColor=white) ![C#](https://img.shields.io/badge/C%23-e4b9db?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edivania88Duarte&theme=transparent&bg_color=000&border_color=ee50a2&show_icons=true&icon_color=ee50a2&title_color=ee50a2&text_color=FFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edivania88duarte&bg_color=0d1117&color=ee50a2&line=ee50a2&point=ffffff&area=true&area_color=ee50a2)
+
+
 
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Edivania88Duarte&repo=https://github.com/Edivania88Duarte/dio-lab-open-source&bg_color=000&border_color=b80671&show_icons=true&icon_color=b80671&title_color=b80671&text_color=FFF)](https://github.com/Edivania88Duarte/https://github.com/Edivania88Duarte/dio-lab-open-source)
+
+[![Repo Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edivania88duarte&theme=github_dark)](https://github.com/edivania88duarte)
+
 
