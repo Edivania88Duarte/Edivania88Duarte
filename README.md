@@ -21,6 +21,7 @@ Atualmente, desenvolvo projetos utilizando:
 - **NestJS**
 - **React**
 - **Next.js**
+- **C#**
 - **Inteligência Artificial (n8n)**
 - **AWS**
 
