@@ -3,6 +3,9 @@
 Eu sou **Edivania Duarte**, mas pode me chamar de **Edi** 😊  
 Desenvolvedora **Full Stack**, estudante de **Análise e Desenvolvimento de Sistemas** e **Computação em Nuvem (AWS)**.
 
+![EDI_DEV_3](https://github.com/user-attachments/assets/2b6311b1-ed7c-48e8-92f2-b02d9e2d97cf)
+
+
 Sou curiosa por natureza, movida por desafios e apaixonada por tecnologia.  
 Meu combustível? **Aprender, evoluir e ir sempre um pouco além.** 🚀  
 
