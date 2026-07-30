@@ -1,7 +1,7 @@
 # 👋 Olá, rede!
 
-Eu sou **Edivania Duarte**, mas pode me chamar de **Edi** 😊  
-Desenvolvedora **Full Stack**, graduada em **Análise e Desenvolvimento de Sistemas** e estudante de **Computação em Nuvem (AWS)**.
+Eu sou a **Edi** 😊  
+Desenvolvedora **Full Stack**, graduada em **Análise e Desenvolvimento de Sistemas**, estudante de **Computação em Nuvem (AWS)** e **empreendedora**.
 
 ![EDI_DEV_3](https://github.com/user-attachments/assets/2b6311b1-ed7c-48e8-92f2-b02d9e2d97cf)
 
